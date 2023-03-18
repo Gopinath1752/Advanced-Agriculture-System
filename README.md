@@ -4,7 +4,7 @@ This Capstone Final year project was done as a part of DSN4099 Course at VIT Bho
 
 Authors
 
-GOPINATH K [19BEC10003]
-MANIN THOMAS T A [19BEC10026]
-CHANDRU T [19BEC10035]
-NARENDRA BABU P [ GUIDE ]
+          GOPINATH K [19BEC10003]
+          MANIN THOMAS T A [19BEC10026]
+          CHANDRU T [19BEC10035]
+          NARENDRA BABU P [ GUIDE ]
